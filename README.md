@@ -2,12 +2,12 @@
 
 I'm Luis Hebendanz, an IT consultant with a passion for solving complex technical challenges. My expertise includes:
 
-- **Nix/NixOS:** I believe that reproducible development environments are essential for the success of complex projects. 
+- **Nix/NixOS:** For building reproducible dev environments and scalable DevOps.
 - **IT Security:** From code reviews to malware analysis and reverse engineering
 - **Testing/Fuzzing:** Building testing and fuzzing harnesses
 - **UI Design:** If your highly technical product needs a Web or Native UI
 - **Kernel Development:** Whether it’s building kernel drivers or crafting custom kernels
-- **Virtualization:** I specialize in creating products that leverage custom virtualization solutions
+- **Virtualization:** Or building custom virtualization solutions
 
 
 **Why Choose Me?**

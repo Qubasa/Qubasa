@@ -11,8 +11,8 @@ I'm Luis Hebendanz, an IT consultant with a passion for solving complex technica
 
 
 **Why Choose Me?**
-- **Tailored Solutions:** I understand that every project is unique. That’s why I offer customized solutions that address your specific needs.
-- **Ahead of the Curve:** By incorporating the latest technologies, I ensure your projects not only meet current standards but are also future-proof.
+- **Custom Solutions:** I understand that every project is unique. That’s why I offer customized solutions that address your specific needs.
+- **Future Proof:** By incorporating the latest technologies, I ensure your projects not only meet current standards but are also future-proof.
 
 **Let's Connect**
 Do you have a project in mind? I’d love to hear about it and discuss how we can bring your ideas to fruition. Reach out to me and send an email to consulting@qube.email.

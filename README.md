@@ -1,16 +1,22 @@
-### Hi there 👋
+### Welcome to My GitHub Profile! 🌟
 
-<!--
-**Qubasa/Qubasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luis Hebendanz, an IT consultant with a passion for solving complex technical challenges. My expertise includes:
 
-Here are some ideas to get you started:
+- **Nix/NixOS:** I believe that reproducible development environments are essential for the success of complex projects. 
+- **IT Security:** From code reviews to malware analysis and reverse engineering
+- **Testing/Fuzzing:** Building testing and fuzzing harnesses
+- **UI Design:** If your highly technical product needs a Web or Native UI
+- **Kernel Development:** Whether it’s building kernel drivers or crafting custom kernels
+- **Virtualization:** I specialize in creating products that leverage custom virtualization solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Why Choose Me?**
+- **Tailored Solutions:** I understand that every project is unique. That’s why I offer customized solutions that address your specific needs.
+- **Ahead of the Curve:** By incorporating the latest technologies, I ensure your projects not only meet current standards but are also future-proof.
+
+**Let's Connect**
+Do you have a project in mind? I’d love to hear about it and discuss how we can bring your ideas to fruition. Reach out to me and send an email to consulting@qube.email.
+
+Together, let's tackle your IT challenges and create something outstanding.
+
+[![Qubasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qubasa)](https://github.com/anuraghazra/github-readme-stats)

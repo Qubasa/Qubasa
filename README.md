@@ -18,4 +18,3 @@ I'm Luis Hebendanz, an IT consultant with a passion for solving complex technica
 Do you have a project in mind? I’d love to hear about it and discuss how we can bring your ideas to fruition. Reach out to me and send an email to consulting@qube.email.
 
 
-[![Qubasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qubasa)](https://github.com/anuraghazra/github-readme-stats)

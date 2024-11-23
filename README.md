@@ -5,7 +5,7 @@ I'm Luis Hebendanz, an IT consultant with a passion for solving complex technica
 - **Nix/NixOS:** For building reproducible dev environments and scalable DevOps.
 - **IT Security:** From code reviews to malware analysis and reverse engineering
 - **Testing/Fuzzing:** Building testing and fuzzing harnesses
-- **UI Design:** If your highly technical product needs a Web or Native UI
+- **UI:** If your highly technical product needs a Web or Native UI
 - **Kernel Development:** Whether it’s building kernel drivers or crafting custom kernels
 - **Virtualization:** Or building custom virtualization solutions
 

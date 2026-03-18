@@ -5,7 +5,7 @@ I'm Luis Hebendanz, an IT consultant with a passion for solving complex technica
 - **Sovereign Infrastructure:** I'm a core developer of the NixOS based infrastructure tool called Clan https://clan.lol
 - **IT Security:** From code reviews to malware analysis and reverse engineering
 - **UI:** If your highly technical product needs a Web or Native UI
-- **AI / LLM Integration:** Whether it’s integrating LLMs into existing workflows or optimizing and building benchmarks
+- **AI / LLM Integration:** Whether it’s integrating LLMs into existing workflows or optimizing and creating benchmarks
 
 
 

@@ -2,10 +2,10 @@
 
 I'm Luis Hebendanz, an IT consultant with a passion for solving complex technical challenges. My expertise includes:
 
-- **Nix/NixOS:** For building reproducible dev environments and scalable DevOps.
+- **Sovereign Infrastructure:** I'm a core developer of the NixOS based infrastructure tool Clan https://clan.lol
 - **IT Security:** From code reviews to malware analysis and reverse engineering
 - **UI:** If your highly technical product needs a Web or Native UI
-- **Operating System Development:** Whether it’s building kernel drivers or custom Linux images
+- **AI / LLM Integration:** Whether it’s integrating LLMs into existing workflows or optimizing and building benchmarks
 
 
 

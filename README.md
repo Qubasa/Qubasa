@@ -14,6 +14,7 @@ I'm Luis Hebendanz, an IT consultant with a passion for solving complex technica
 - **Maintainable:** I ensure your projects not only meet current standards but are also future-proof and maintainable.
 
 **Let's Connect**
+
 Do you have a project in mind? I’d love to hear about it. Reach out to me at consulting@qube.email.
 
 

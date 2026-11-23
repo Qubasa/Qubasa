@@ -8,6 +8,7 @@ I'm an IT consultant with a passion for solving complex technical challenges. My
 - **AI / LLM Integration:** Whether it’s integrating LLMs into existing workflows or optimizing and [creating benchmarks](vpnbench.qubasa.blog)
 
 **Tech Stack**:
+
 I enjoy working with a diverse tech stack, from low-level systems programming to high-level languages like Python and Typescript.
 
 ---

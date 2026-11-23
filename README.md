@@ -5,7 +5,7 @@ I'm an IT consultant with a passion for solving complex technical challenges. My
 - **Infrastructure:** Building and scaling CI & IT infrastructure as I'm a core developer of https://clan.lol
 - **IT Security:** From code reviews to malware analysis and reverse engineering
 - **UI:** If your highly technical product needs a Web or Native UI
-- **AI / LLM Integration:** Whether it’s integrating LLMs into existing workflows or optimizing and [creating benchmarks](vpnbench.qubasa.blog)
+- **AI / LLM Integration:** Whether it’s integrating LLMs into existing workflows or optimizing and [creating benchmarks](https://vpnbench.qubasa.blog)
 
 **Tech Stack**:
 
